@@ -1,8 +1,6 @@
 {
-  "name": "animais-fantasticos-eslint",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
-  "description": "Site animais fantásticos",
-  "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
@@ -11,7 +9,6 @@
     "type": "git",
     "url": "git+https://github.com/willy4nn/Animais-Fantasticos.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/willy4nn/Animais-Fantasticos/issues"
