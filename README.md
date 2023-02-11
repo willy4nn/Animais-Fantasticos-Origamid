@@ -8,6 +8,7 @@
 
 <h2> ✔️ Resumo do projeto </h2>
 <p><b>GitHub Pages:</b> https://willy4nn.github.io/Animais-Fantasticos-Origamid/ </p>
+<p> Página com informaçãoes sobre alguns animais, o projeto possui tooltip, slide, drop-menu e outras funcionalidades. </p>
 <p> Esse projeto foi feito durante o curso de JavaScript Completo ES6 da Origamid, feito com HTML, CSS e JavaScript. </p>
 
 <h2> ✔️ Tecnologias utilizadas </h2>
